@@ -1,25 +1,25 @@
 One picture <noun0> piece
-<verb> on the sidewalk,
+<verb0> on the sidewalk,
 One picture <noun1> piece
-<verb> in the rain.
-It might be a <nouni> of blue
-On the <nouni> of the woman
-Who <verb> in a <noun2>.
-It might be a magical <noun3>,
-Or a <noun4> in the <adjective>
-Velvet <noun5> of a queen.
-It might be the one <adjective> bite
-Of the <noun6> her stepmother
-<verb> to Snow White.
-It might be the <noun7> of a bride
-Or a <nouni> with some <adjective> genie inside.
-It might be a <adjective> tuft of <noun8>
-On the big bouncy <noun9>
+<verb1> in the rain.
+It might be a <noun2> of blue
+On the <noun3> of the woman
+Who <verb2> in a <noun4>.
+It might be a magical <noun5>,
+Or a <noun6> in the <adjective0>
+Velvet <noun7> of a queen.
+It might be the one <adjective1> bite
+Of the <noun8> her stepmother
+<verb3> to Snow White.
+It might be the <noun9> of a bride
+Or a <noun10> with some <adjective2> genie inside.
+It might be a <adjective3> tuft of <noun11>
+On the big bouncy <noun12>
 Of Bobo the Bear.
-It might be a bit of the <noun10>
-Of the <noun11> of the West
-As she melted to <verb>.
-It might be a <adjective> <noun12>
-Of a <noun13> that <verb> down an angel's face.
-Nothing has more <noun14>
-Than one <adjective> <adjective> picture <noun15> piece.
+It might be a bit of the <noun13>
+Of the <noun14> of the West
+As she melted to <verb4>.
+It might be a <adjective4> <noun15>
+Of a <noun16> that <verb5> down an angel's face.
+Nothing has more <noun17>
+Than one <adjective5> <adjective6> picture <noun18> piece.
