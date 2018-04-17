@@ -1,25 +1,25 @@
-One picture <noun> piece
+One picture <noun0> piece
 <verb> on the sidewalk,
-One picture <noun> piece
+One picture <noun1> piece
 <verb> in the rain.
-It might be a <noun> of blue
-On the <noun> of the woman
-Who <verb> in a <noun>.
-It might be a magical <noun>,
-Or a <noun> in the <adjective>
-Velvet <noun> of a queen.
+It might be a <nouni> of blue
+On the <nouni> of the woman
+Who <verb> in a <noun2>.
+It might be a magical <noun3>,
+Or a <noun4> in the <adjective>
+Velvet <noun5> of a queen.
 It might be the one <adjective> bite
-Of the <noun> her stepmother
+Of the <noun6> her stepmother
 <verb> to Snow White.
-It might be the <noun> of a bride
-Or a <noun> with some <adjective> genie inside.
-It might be a <adjective> tuft of <noun>
-On the big bouncy <noun>
+It might be the <noun7> of a bride
+Or a <nouni> with some <adjective> genie inside.
+It might be a <adjective> tuft of <noun8>
+On the big bouncy <noun9>
 Of Bobo the Bear.
-It might be a bit of the <noun>
-Of the <noun> of the West
+It might be a bit of the <noun10>
+Of the <noun11> of the West
 As she melted to <verb>.
-It might be a <adjective> <noun>
-Of a <noun> that <verb> down an angel's face.
-Nothing has more <noun>
-Than one <adjective> <adjective> picture <noun> piece.
+It might be a <adjective> <noun12>
+Of a <noun13> that <verb> down an angel's face.
+Nothing has more <noun14>
+Than one <adjective> <adjective> picture <noun15> piece.
