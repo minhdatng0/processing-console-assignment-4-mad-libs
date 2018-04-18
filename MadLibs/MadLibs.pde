@@ -10,6 +10,7 @@
 void setup() {
    for (int i = 0; i < 100; i++){
      String lines[] = loadStrings("data/poem.txt");
+      println(lines[i]);
    }
 }
 void draw() {
