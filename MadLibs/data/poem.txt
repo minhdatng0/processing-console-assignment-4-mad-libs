@@ -1,7 +1,7 @@
-Picture Puzzle Piece
-One picture puzzle piece
+Picture <noun[0]>
+One picture <noun[0]>
 Lyin' on the sidewalk,
-One picture puzzle piece
+One picture <noun[0]>
 Soakin' in the rain.
 It might be a button of blue
 On the coat of the woman
@@ -23,5 +23,5 @@ As she melted to smoke.
 It might be a shadowy trace
 Of a tear that runs down an angel's face.
 Nothing has more possibilities
-Than one old wet picture puzzle piece
+Than one old wet picture <noun[0]>
 
