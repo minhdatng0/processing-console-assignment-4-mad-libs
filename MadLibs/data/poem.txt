@@ -1,27 +1,27 @@
-Picture <noun[0]>
-One picture <noun[0]>
-<verb[0]> on the sidewalk,
-One picture <noun[0]>
-<verb[1]> in the rain.
-It might be a <noun[1]> of blue
-On the <noun[2]> of the woman
-Who lived in a <noun[3]>.
-It might be a magical <noun[4]>,
-Or a <noun[5]> in the red
-Velvet <noun[6]> of a queen.
-It might be the one <adjective[0]> bite
+Picture <noun0>
+One picture <noun0>
+<verb0> on the sidewalk,
+One picture <noun0>
+<verb1> in the rain.
+It might be a <noun1> of blue
+On the <noun2> of the woman
+Who lived in a <noun3>.
+It might be a magical <noun4>,
+Or a <noun5> in the red
+Velvet <noun6> of a queen.
+It might be the one <adjective0> bite
 Of the apple her stepmother
-<verb[2]> to Snow White.
+<verb2> to Snow White.
 It might be the veil of a bride
 Or a bottle with some evil genie inside.
-It might be a small <noun[7]> of hair
-On the big bouncy <noun[8]>
+It might be a small <noun7> of hair
+On the big bouncy <noun8>
 Of Bobo the Bear.
 It might be a bit of the cloak
 Of the Witch of the West
 As she melted to smoke.
-It might be a <adjective[1]> <noun[9]>
-Of a <noun[10]> that <verb[3]> an angel's face.
+It might be a <adjective1> <noun9>
+Of a <noun10> that <verb3> an angel's face.
 Nothing has more possibilities
-Than one <adjective[2]> <adjective[3] picture <noun[0]>
+Than one <adjective2> <adjective3> picture <noun0>
 
