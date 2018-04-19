@@ -1,8 +1,8 @@
 Picture <noun[0]>
 One picture <noun[0]>
-L on the sidewalk,
+<verb[0]> on the sidewalk,
 One picture <noun[0]>
-Soakin' in the rain.
+<verb[1]> in the rain.
 It might be a <noun[1]> of blue
 On the <noun[2]> of the woman
 Who lived in a <noun[3]>.
@@ -21,7 +21,7 @@ It might be a bit of the cloak
 Of the Witch of the West
 As she melted to smoke.
 It might be a shadowy <noun[9]>
-Of a <noun[10]> that runs down an angel's face.
+Of a <noun[10]> that <verb[3]> an angel's face.
 Nothing has more possibilities
 Than one old wet picture <noun[0]>
 
