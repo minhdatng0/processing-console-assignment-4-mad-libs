@@ -15,7 +15,7 @@ void setup() {
       String nouns[] = loadStrings("data/nouns.txt");
       String adjectives[] = loadStrings("data/adjectives.txt");
       String verbs[] = loadStrings("data/verbs.txt");
-       println(lines[i]);
+       println(lines[i] = lines[i].replaceAll( n , n ));
    }
 }
 }
