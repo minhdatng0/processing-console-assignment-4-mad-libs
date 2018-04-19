@@ -10,9 +10,10 @@
 void setup() {
    for (int i = 0; i < 100; i++){
     for (int t = 0; t <20; i++){
-      int r = int(random(50));
+     int r = int(random(50));
       String lines[] = loadStrings("data/poem.txt");
-      println(lines[i]);
+      String nouns[] = loadStrings("data/nouns.txt");
+       println(lines[i]);
    }
 }
 }
