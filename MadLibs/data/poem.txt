@@ -9,9 +9,9 @@ Who lived in a <noun[3]>.
 It might be a magical <noun[4]>,
 Or a <noun[5]> in the red
 Velvet <noun[6]> of a queen.
-It might be the one little bite
+It might be the one <adjective[0]> bite
 Of the apple her stepmother
-Gave to Snow White.
+<verb[2]> to Snow White.
 It might be the veil of a bride
 Or a bottle with some evil genie inside.
 It might be a small <noun[7]> of hair
@@ -20,8 +20,8 @@ Of Bobo the Bear.
 It might be a bit of the cloak
 Of the Witch of the West
 As she melted to smoke.
-It might be a shadowy <noun[9]>
+It might be a <adjective[1]> <noun[9]>
 Of a <noun[10]> that <verb[3]> an angel's face.
 Nothing has more possibilities
-Than one old wet picture <noun[0]>
+Than one <adjective[2]> <adjective[3] picture <noun[0]>
 
