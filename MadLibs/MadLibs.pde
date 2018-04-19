@@ -13,6 +13,7 @@ void setup() {
      int r = int(random(50));
       String lines[] = loadStrings("data/poem.txt");
       String nouns[] = loadStrings("data/nouns.txt");
+      String adjectives[] = loadStrings("data/adjectives.txt");
        println(lines[i]);
    }
 }
