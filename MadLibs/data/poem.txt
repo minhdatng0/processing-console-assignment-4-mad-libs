@@ -1,27 +1,27 @@
 Picture <noun[0]>
 One picture <noun[0]>
-Lyin' on the sidewalk,
+L on the sidewalk,
 One picture <noun[0]>
 Soakin' in the rain.
-It might be a button of blue
-On the coat of the woman
-Who lived in a shoe.
-It might be a magical bean,
-Or a fold in the red
-Velvet robe of a queen.
+It might be a <noun[1]> of blue
+On the <noun[2]> of the woman
+Who lived in a <noun[3]>.
+It might be a magical <noun[4]>,
+Or a <noun[5]> in the red
+Velvet <noun[6]> of a queen.
 It might be the one little bite
 Of the apple her stepmother
 Gave to Snow White.
 It might be the veil of a bride
 Or a bottle with some evil genie inside.
-It might be a small tuft of hair
-On the big bouncy belly
+It might be a small <noun[7]> of hair
+On the big bouncy <noun[8]>
 Of Bobo the Bear.
 It might be a bit of the cloak
 Of the Witch of the West
 As she melted to smoke.
-It might be a shadowy trace
-Of a tear that runs down an angel's face.
+It might be a shadowy <noun[9]>
+Of a <noun[10]> that runs down an angel's face.
 Nothing has more possibilities
 Than one old wet picture <noun[0]>
 
