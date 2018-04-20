@@ -13,12 +13,10 @@ void setup() {
   String adjectives[] = loadStrings("data/adjectives.txt");
   String verbs[] = loadStrings("data/verbs.txt");
    for (int i = 0; i < lines.length; i++){
-    for (int t =0; t < 999; i++){
-     int r = int(random(0,999));
-       println(lines[i] = lines[i].replaceAll("<noun"+t+">", nouns[r] ).replaceAll("<verb"+t+">",verbs[r]));
-
-}
-}
+     int r = int(random(1000-1));
+       println(lines[i] = lines[i].replaceAll("<noun>", nouns[r] ).replaceAll("<verb>",verbs[r] ).replaceAll("<adjective>", adjectives[r] ));
+        
+} 
 }
 void draw() {
 
